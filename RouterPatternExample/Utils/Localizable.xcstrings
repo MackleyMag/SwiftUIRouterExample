@@ -1,17 +1,45 @@
 {
   "sourceLanguage" : "pt-BR",
   "strings" : {
-    "home" : {
-
+    "Home" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
     },
     "Home Page" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home Page"
+          }
+        }
+      }
     },
     "Segunda tela" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Second screen"
+          }
+        }
+      }
     },
     "Tela de detalhes" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Details"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

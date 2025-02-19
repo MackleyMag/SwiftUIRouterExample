@@ -61,7 +61,7 @@ struct AppTabBarView: View {
                     router.makeView()
                 }
         }
-        .accentColor(Color.white)
+        .accentColor(Color.red)
     }
 }
 

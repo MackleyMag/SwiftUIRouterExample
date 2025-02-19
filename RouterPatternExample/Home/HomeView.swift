@@ -27,5 +27,5 @@ struct HomeView: View {
 }
 
 #Preview {
-    HomeView(viewModel: HomeViewModel(router: .init(pathNavigation: Router())))
+    HomeView(viewModel: .mockVM)
 }
