@@ -7,6 +7,18 @@ Vale a pena a leitura.
 O projeto está desenvolvido em arquitetura MVVM primitivo, não separei pastas e diversifiquei o projeto a fundo. 
 O Arquivo HomeRouter exemplifica algo semelhante ao Pattern Coordinator utilizado largamente em várias compahias, deixando o projeto escalável em SwiftUI
 
+
+=====
+
+# SwiftUI routing patter with mvvm example
+
+This is a simple example project for the article mention above developed by me
+
+Unfortunately, is not available in English yet, but you can appreciate the reading using translator
+
+====
+
+
 Mais informações e contatos profissionais: 
 Mackley Magalhães da Silva
 [Linkedin](https://www.linkedin.com/in/mackley-ms/)
